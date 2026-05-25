@@ -3,3 +3,4 @@ gitの練習を開始します
 ・git add
 ・git commit
 この２つを勉強します
+・git diff
